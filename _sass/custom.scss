@@ -1,0 +1,20 @@
+// Change primary theme color
+$primary-color: #3498db;
+$background-color: #f8f9fa;
+$font-family: "Poppins", sans-serif;
+
+// Apply changes to body
+body {
+    font-family: $font-family;
+    background-color: $background-color;
+    color: #333;
+}
+
+// Style links
+a {
+    color: $primary-color;
+    &:hover {
+        color: darken($primary-color, 10%);
+    }
+}
+
