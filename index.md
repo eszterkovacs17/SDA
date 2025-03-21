@@ -15,11 +15,11 @@ Here's some text about a topic I'm working on.
 
 Here is a picture:
 
-![Alt text](https://github.com/eszterkovacs17/SDA/blob/main/bokeh_plot.html?raw=true)
+![Alt text](https://github.com/eszterkovacs17/SDA/blob/master/bokeh_plot.html?raw=true)
 
 
 Bokeh_plot: 
 
 
-<iframe src="https://github.com/eszterkovacs17/SDA/blob/main/bokeh_plot.html?raw=true" width="100%" height="600"></iframe>
+<iframe src="https://github.com/eszterkovacs17/SDA/blob/master/bokeh_plot.html?raw=true" width="100%" height="600"></iframe>
 
