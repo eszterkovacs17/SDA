@@ -15,7 +15,7 @@ Here's some text about a topic I'm working on.
 
 Here is a picture:
 
-![Alt text](https://github.com/username/repository-name/blob/main/image.png?raw=true)
+![Alt text](https://github.com/eszterkovacs17/SDA/blob/main/bokeh_plot.html?raw=true)
 
 
 Bokeh_plot: 
