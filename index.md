@@ -4,3 +4,10 @@
 
 layout: home
 ---
+# Welcome to My Site
+
+This is a place to showcase my work!
+
+## Section Title
+Here's some text about a topic I'm working on. 
+
