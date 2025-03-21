@@ -13,13 +13,22 @@ Here's some text about a topic I'm working on.
 
 ## A picture
 
-Here is a picture:
-
-[Click here to view my Bokeh plot](https://github.com/eszterkovacs17/SDA/raw/master/bokeh_plot.html)
-
-
 Bokeh_plot: 
 
-<iframe src="/bokeh_plot.html" width="100%" height="600"></iframe>
+<iframe src="/assets/bokeh_plot.html" width="100%" height="600"></iframe>
+
+## A picture via link
+
+Here is a picture:
+
+![Alt text](/assets/cica.jpg)
+
+
+## Or
+
+
+## Bokeh Plot
+
+[Click here to view my Bokeh plot](https://github.com/eszterkovacs17/SDA/master/assets/bokeh_plot.html)
 
 
