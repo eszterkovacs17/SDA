@@ -29,6 +29,6 @@ Here is a picture:
 
 ## Bokeh Plot
 
-[Click here to view my Bokeh plot](https://github.com/eszterkovacs17/SDA/master/assets/bokeh_plot.html)
+[Click here to view my Bokeh plot](https://github.com/eszterkovacs17/SDA/assets/bokeh_plot.html)
 
 
