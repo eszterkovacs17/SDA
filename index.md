@@ -21,5 +21,5 @@ Here is a picture:
 Bokeh_plot: 
 
 
-<iframe src="https://github.com/eszterkovacs/SDA/blob/main/bokeh_plot.html?raw=true" width="100%" height="600"></iframe>
+<iframe src="https://github.com/eszterkovacs17/SDA/blob/main/bokeh_plot.html?raw=true" width="100%" height="600"></iframe>
 
