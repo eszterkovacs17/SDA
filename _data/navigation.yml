@@ -1,0 +1,8 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Visualizations"
+    url: /visualizations/
+  - title: "About"
+    url: /about/
+
