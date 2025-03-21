@@ -4,5 +4,5 @@ title: Contact
 permalink: /contact/
 ---
 
-Here is my contact!
+Here is my contact!My email is...
 
