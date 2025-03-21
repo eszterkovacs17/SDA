@@ -4,5 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Here is my contact!My email is...
+Here are our dtu emails:
+
+    Eszter -> emailadress@sth.sth
 
