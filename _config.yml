@@ -24,11 +24,24 @@ url: https://eszterkovacs17.github.io # the base hostname & protocol for your si
 twitter_username: jekyllrb
 github_username:  jekyll
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
+  - jekyll-lunr-js-search
+lunr_search:
+  exclude: [index.md, about.md]  # Files to exclude from search
+  search_path: ""  # Search across the whole site
+  fulltext: true
+
 #theme:  jekyll-theme-architect
 #plugins:
 #  - jekyll-feed
@@ -38,6 +51,11 @@ sass:
   style: compressed
   load_paths:
     - _sass
+
+#adding a sidebar
+sidebar:
+  nav: "main"
+
 
 
 # Exclude from processing.
