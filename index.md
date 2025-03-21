@@ -11,3 +11,15 @@ This is a place to showcase my work!
 ## Section Title
 Here's some text about a topic I'm working on. 
 
+## A picture
+
+Here is a picture:
+
+![Alt text](https://github.com/username/repository-name/blob/main/image.png?raw=true)
+
+
+Bokeh_plot: 
+
+
+<iframe src="https://github.com/eszterkovacs/SDA/blob/main/bokeh_plot.html?raw=true" width="100%" height="600"></iframe>
+
