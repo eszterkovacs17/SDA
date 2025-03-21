@@ -11,6 +11,11 @@ This is a place to showcase my work!
 ## Section Title
 Here's some text about a topic I'm working on. 
 
+You can find information here: [About Us](about.md)
+And our contacts: [Contact](contact.md)
+
+
+
 ## A picture
 
 Bokeh_plot: 
