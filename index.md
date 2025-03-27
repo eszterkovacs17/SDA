@@ -27,6 +27,8 @@ Here is a kitty-cat:
 ![Alt text](/assets/cica.jpg)
 hehe, it is working
 
+![Alt text](/assets/crime_drug_plot.png)
+
 ## Another try with html
 
 [Click here to view my Bokeh plot](https://github.com/eszterkovacs17/SDA/assets/bokeh_plot.html)
