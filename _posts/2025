@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Map"
+date: 2025-03-27
+categories: data-visualization
+---
+
+There you go
+
+{% include folium_heatmap_with_time_drug.html %}
