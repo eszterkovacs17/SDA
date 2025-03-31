@@ -12,6 +12,7 @@ Group members: [About Us](about.md)
 
 Contacts: [Contact](contact.md)
 
+<iframe src="_includes/drug_narcotic_incidents_with_details.htm" width="100%" height="600" style="border:none;"></iframe>
 
 
 ![Alt text](/assets/crime_drug_plot.png)
